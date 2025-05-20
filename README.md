@@ -21,7 +21,7 @@ This repository contains the following analyses of the paper:
           d) efficacy of transgene expression using CAG-DIO-eGFP vs hSyn-DIO-eGFP in DBH-cre mice (Fig. 3, panel C): a02_plot_Fig3_panelC_efficacy_CAG_vs_hSyn
           e) specificity of transgene expression using CAG-DIO-eGFP vs hSyn-DIO-eGFP in DBH-cre mice (Fig. 3, panel C): a02_plot_Fig3_panelD_specificity_CAG_vs_hSyn
 
-     To reproduce our results, one can either run all scripts using the raw input data provided on the g-node repository specified above, or run the scripts a-e for visualization of the data,          which is already provided in the github-repository (*50_WissingEschholz2025.mat)
+To reproduce our results, one can either run all scripts using the raw input data provided on the g-node repository specified above, or run the scripts a-e for visualization of the data, which is already provided in the github-repository (*50_WissingEschholz2025.mat)
 
 
 (2) Quantification of the spatial extent of viral spread upon rAAV-based neuronal transduction in the mouse LC. 
@@ -29,7 +29,7 @@ This repository contains the following analyses of the paper:
           a) viral spread by serotype, comparing 300 nl of rAAV2/9 vs 300 nl of rAAV2/2 (Fig. 3, panel G): a02_plot_Fig3_panelG_viral_spread_by_serotype
           b) viral spread by injection volume, comparing 50, 100, and 300 nl of rAAV2/9 (Fig. 3, panel J): a02_plot_Fig3_panelJ_viral_spread_by_injection_volume
 
-     To reproduce our results, one can either run all scripts using the raw input data provided on the g-node repository specified above, or run the scripts a-e for visualization of the data,          which is already provided in the github-repository (*WissingEschholz2025.mat)
+To reproduce our results, one can either run all scripts using the raw input data provided on the g-node repository specified above, or run the scripts a-e for visualization of the data, which is already provided in the github-repository (*WissingEschholz2025.mat)
 
 
 (3) The effect of immuno-staining as compared to native fluorescent brain slices on subsequenta nalysis reported in the manuscript (Supplementary Figure S7). 
@@ -37,7 +37,7 @@ This repository contains the following analyses of the paper:
     is called "a01_quantify_efficacy_specificity_single_for_staining_effects" and is very similar to the script in (1).
     Output data is then plotted by using script "a02_LCt_FigureS7_20231016".
 
-    To reproduce our results, one can either run all scripts using the raw input data provided on the g-node repository specified above, or run the scripts a-e for visualization of the data,          which is already provided in the github-repository (*50_WissingEschholz2025.mat) 
+To reproduce our results, one can either run all scripts using the raw input data provided on the g-node repository specified above, or run the scripts a-e for visualization of the data, which is already provided in the github-repository (*50_WissingEschholz2025.mat) 
 
     
     
