@@ -2,9 +2,9 @@
 
 This repository contains custom MATLAB-code that allows reproduction of the analysis of data presented in the manuscript 
 "A comparison of viral strategies and model systems to target norepinephrine neurons in the locus coeruleus reveals high variability in transgene expression patterns" 
-by Wissing and Eschholz et al., published in PLOS Biology, 2025. 
+by Wissing and Eschholz et al., published in PLOS Biology, 2025 (doi: 10.1371/journal.pbio.3003228). 
 
-The corresponding data is deposited at: https://gin.g-node.org/SW_lab/Wissing_and_Eschholz_et_al_PLOS_Biology_2025/ (doi: 10.12751/g-node.bk35g9)
+The corresponding data is deposited at: https://gin.g-node.org/SW_lab/Wissing_and_Eschholz_et_al_PLOS_Biology_2025/ (doi: 10.12751/g-node.msn52q)
 
 The path linking to the data has to be adjusted in the beginning of each script (which is commented in the individual scripts). 
 The code was tested on MATLAB version 2022b.
